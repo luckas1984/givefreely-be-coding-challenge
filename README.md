@@ -1,6 +1,6 @@
 
 
-## Simplified Affiliate Program Management System
+## Affiliate Program Management System
 ### Background
 
 Your company runs an affiliate program, where partners (affiliates) can earn commissions by referring customers. You are tasked to create a backend system to manage this program. The system should handle basic operations like linking customers to affiliates and providing a basic commission report.
