@@ -1,7 +1,7 @@
 
 
 ## Simplified Affiliate Program Management System
-###Background
+### Background
 
 Your company runs an affiliate program, where partners (affiliates) can earn commissions by referring customers. You are tasked to create a backend system to manage this program. The system should handle basic operations like linking customers to affiliates and providing a basic commission report.
 Requirements
@@ -18,7 +18,7 @@ Requirements
 
 * Testing: Write basic unit tests for your business logic to ensure it works as expected.
 
-Evaluation Criteria
+### Evaluation Criteria
 
 Your solution will be evaluated on the following criteria:
 
@@ -26,6 +26,6 @@ Your solution will be evaluated on the following criteria:
 * Code Quality: Is the code easy to understand and maintain? Is it following C# and .NET best practices?
 * Testing: How well is the code tested? Are edge cases and error conditions considered?
 
-Submission
+### Submission
 
 Please submit a link to a Git repository containing your solution, including all source code, tests, and a README with instructions on how to run and test your application.
