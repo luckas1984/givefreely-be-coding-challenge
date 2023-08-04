@@ -30,8 +30,7 @@ Your solution will be evaluated on the following criteria:
 * .NET 6.0
 * .NET SDK 6.0 (for development porpouse)
 * VS Studio 2022 (IDE)
-* The solution is using a SQLite in order to quickly and easily set up and execute tests 
-
+* This solution is runnin
 ### Usage & Test
 
 In order to run and expose the RestAPI resources you need to:
