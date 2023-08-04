@@ -34,11 +34,6 @@ Your solution will be evaluated on the following criteria:
 
 ### Usage & Test
 
-In order to run and expose the RestAPI resourcesyou can:
-
-#### Local Env Setup:
+In order to run and expose the RestAPI resources you can:
 * Command: dotnet run --project AffiliationAPI/AffiliationAPI.csproj
 * Test API resources (Swagger): https://localhost:7256/swagger/index.html
-
-#### Github Codespace
-* name: upgraded tribble
